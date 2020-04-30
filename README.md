@@ -1,2 +1,2 @@
 # Springer-script
-Python scipt for free Springer Books(2020)
+Python scipt (2020)
